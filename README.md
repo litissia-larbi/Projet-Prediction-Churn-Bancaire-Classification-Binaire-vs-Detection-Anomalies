@@ -244,3 +244,10 @@ Scikit-learn (modèles ML, métriques, preprocessing)
 Pandas & NumPy (manipulation de données)                                                                                                                                                                                        
 Matplotlib & Seaborn (visualisation)                                                                                                                                                                                    
 Imbalanced-learn (SMOTE)
+
+
+⭐ Si ce projet vous a été utile, n'hésitez pas à lui donner une étoile !                                                                                                                                
+
+Made with ❤️ by Litissia LARBI                                                                                                                                                                        
+LinkedIn : [Litissia LARBI]                                                                                                                                                                          
+GitHub : [@litissia-larbi]
