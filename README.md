@@ -238,3 +238,9 @@ Ce projet demontre que la prediction du churn peut etre abordee de deux manieres
 La comparaison aide a comprendre quelle approche fonctionne le mieux pour un cas specifique comme le churn bancaire 
 
 **Point critique** : SMOTE est utilise UNIQUEMENT pour la classification,mais JAMAIS pour la detection d'anomalies 
+**Technologies Utilisées**
+Python 3.x
+Scikit-learn (modèles ML, métriques, preprocessing)
+Pandas & NumPy (manipulation de données)
+Matplotlib & Seaborn (visualisation)
+Imbalanced-learn (SMOTE)
