@@ -1,0 +1,17 @@
+# librairies importantes compatible avec Python 3.12
+numpy>=1.26.0
+pandas>=2.1.0
+scikit-learn>=1.3.0
+
+# Traitement des donnees desequilibres 
+imbalanced-learn>=0.11.0
+
+# Visualisation
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# persistence des modeles
+joblib>=1.3.2
+
+# Optionnel 
+tqdm>=4.66.1

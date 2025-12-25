@@ -1,0 +1,4 @@
+;metric;n_neighbors;weights;criterion;max_depth;min_samples_leaf;min_samples_split;n_estimators
+KNN;manhattan;9;distance;;;;;
+Arbre de Decision;;;;entropy;15;5;50;
+Foret Aleatoire;;;;;;2.0;5.0;200.0
